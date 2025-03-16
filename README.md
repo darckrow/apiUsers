@@ -20,6 +20,8 @@ Este repositório contém uma API simples para estudo de conceitos como autentic
 
 🔑 Bcrypt
 
+📈 mongoDB
+
 
 ## Como Rodar o Projeto
 
